@@ -16,6 +16,7 @@ defined('ABSPATH') or die("Hasta luego");
 require_once( plugin_dir_path(__FILE__) . 'admin/inicio.php');
 
 wp_enqueue_style( 'bootstrap', plugin_dir_url( __FILE__ ) . 'css/bootstrap.css' );
+wp_enqueue_style( 'custom', plugin_dir_url( __FILE__ ) . 'css/custom.css' );
 
 wp_enqueue_script( 'jquery', plugin_dir_url( __FILE__ ) . 'js/jquery-3.6.4.min.js', array( 'jquery' ), '3.6', true );
 

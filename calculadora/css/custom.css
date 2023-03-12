@@ -1,0 +1,20 @@
+.row-init
+{
+    margin:20px;
+    padding:20px;
+    border: solid black 1px;
+    border-radius: 20px;
+}
+.hr-spacer, .row-operator
+
+{
+    margin:25px 0 25px 0;
+}
+.btn-calc
+{
+    min-width: 130px;
+}
+.active
+{
+    background-color: green !important;
+}
