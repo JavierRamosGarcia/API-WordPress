@@ -36,7 +36,7 @@ function calc_dashboard()
 		<hr class="hr-spacer">
 
 		
-		Operador
+		Operación
 		<div class="row row-operator">
 			<div class="col-2">
 				<button type="button" id="suma" class="btn btn-secondary btn-calc process" value="add">Suma</button>
