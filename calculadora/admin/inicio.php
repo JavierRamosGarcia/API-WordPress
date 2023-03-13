@@ -12,10 +12,6 @@ function calc_dashboard()
 		Plugin de calculadora desarrollado por Javier Ramos García
 	</div>
 
-	<div class="alert alert-primary" role="alert">
-  		A simple primary alert—check it out!
-	</div>
-
 	<div class="row row-init">
 		<div class="col-12">
 			<label for="ruta" class="form-label">Ruta para la API</label>
